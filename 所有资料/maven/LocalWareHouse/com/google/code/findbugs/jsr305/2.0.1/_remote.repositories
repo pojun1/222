@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 12 12:09:27 CST 2018
+jsr305-2.0.1.pom>nexus=
+jsr305-2.0.1.jar>nexus=

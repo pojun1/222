@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 18 11:32:24 CST 2019
+surefire-junit4-2.22.1.jar>nexus=
+surefire-junit4-2.22.1.pom>nexus=
